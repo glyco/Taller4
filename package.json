@@ -1,0 +1,11 @@
+{
+  "name": "taller-4",
+  "version": "0.0.1",
+  "description": "Calculo de promedio",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.0",
+    "edge": "^5.9.2",
+    "express": "^4.14.0"
+  }
+}
